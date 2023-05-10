@@ -1,0 +1,23 @@
+{
+  "name": "the-cult-classics",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/image-edge": "^1.0.0-28050764.aaee7ac",
+    "@nuxtjs/tailwindcss": "^6.6.7",
+    "@types/node": "^18",
+    "gh-pages": "^5.0.0",
+    "nuxt": "^3.4.3"
+  },
+  "dependencies": {
+    "@vueuse/components": "^10.1.2",
+    "@vueuse/nuxt": "^10.1.2",
+    "daisyui": "^2.51.6"
+  }
+}

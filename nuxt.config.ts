@@ -1,7 +1,7 @@
 export default defineNuxtConfig({
     modules: ['@nuxtjs/tailwindcss', '@nuxt/image-edge'],
-    runtimeConfig: {
-        imageProvider: 'imagekit',
+    app: {
+        baseURL: '/the-cult-classics/',
         head: {
             link: [
                 {
@@ -11,6 +11,9 @@ export default defineNuxtConfig({
                 },
             ],
         },
+    },
+    runtimeConfig: {
+        imageProvider: 'imagekit',
     },
     image: {
         imagekit: {

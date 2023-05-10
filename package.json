@@ -19,6 +19,7 @@
   "dependencies": {
     "@vueuse/components": "^10.1.2",
     "@vueuse/nuxt": "^10.1.2",
-    "daisyui": "^2.51.6"
+    "daisyui": "^2.51.6",
+    "nuxt-icon": "^0.4.0"
   }
 }

@@ -11,14 +11,16 @@
             ref="dirk"
             class="md:ml-[400px] transition-all opacity-0 motion-safe:translate-x-[-300px] duration-300"
             image="/dirk.avif"
-            instrument="Bass"
+            instrument="Guitar"
+            instagram="https://www.instagram.com/dirkjeffreylamb/"
+            instagram-handle="@dirkjeffreylamb"
             name="Dirk Lamb"
         />
         <Card
             ref="jake"
             class="md:mr-[400px] transition-all opacity-0 motion-safe:translate-x-[-300px] duration-300"
             image="/jake.png"
-            instrument="Bass"
+            instrument="Bass, Vocals"
             name="Jake Barrett"
         />
         <Card

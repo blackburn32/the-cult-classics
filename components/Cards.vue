@@ -12,7 +12,7 @@
             class="md:ml-[400px] transition-all opacity-0 motion-safe:translate-x-[-300px] duration-300"
             image="/dirk.avif"
             instrument="Guitar"
-            instagram="https://www.instagram.com/dirkjeffreylamb/"
+            instagram-link="https://www.instagram.com/dirkjeffreylamb/"
             instagram-handle="@dirkjeffreylamb"
             name="Dirk Lamb"
         />

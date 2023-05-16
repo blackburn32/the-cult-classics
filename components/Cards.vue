@@ -14,6 +14,8 @@
             instrument="Guitar"
             instagram-link="https://www.instagram.com/dirkjeffreylamb/"
             instagram-handle="@dirkjeffreylamb"
+            website-label="@wasteland__records"
+            website-link="https://www.instagram.com/wasteland__records/"
             name="Dirk Lamb"
         />
         <Card
@@ -29,6 +31,10 @@
             image="/trevorPainting.avif"
             instrument="Saxophone"
             name="Trevor Dahl"
+            instagram-link="https://www.instagram.com/trevordahhhl/"
+            instagram-handle="@trevordahhhl"
+            website-label="goodhappystuff.com"
+            website-link="https://goodhappystuff.com/"
         />
         <Card
             ref="alex"

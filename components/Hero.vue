@@ -1,5 +1,5 @@
 <template>
-    <div class="hero bg-base-200">
+    <div class="hero bg-base-200 md:min-h-screen">
         <div class="hero-content text-center">
             <div class="flex flex-col">
                 <h1 class="text-8xl font-bold">The Cult Classics</h1>

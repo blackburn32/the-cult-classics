@@ -5,6 +5,8 @@
             class="md:mr-[400px] transition-all opacity-0 motion-safe:translate-x-[-300px] duration-300"
             image="/putTheTeamOnMyBack.avif"
             instrument="Vocals, Guitar"
+            instagram-handle="@bangalec"
+            instagram-link="https://www.instagram.com/bangalec/"
             name="Alec Bang"
         />
         <Card

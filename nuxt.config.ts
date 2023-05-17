@@ -1,13 +1,16 @@
 export default defineNuxtConfig({
     modules: ['@nuxtjs/tailwindcss', '@nuxt/image-edge', 'nuxt-icon'],
     app: {
-        baseURL: '/the-cult-classics/',
         head: {
+            title: 'The Cult Classics',
+            meta: [
+                {name: 'description', content: 'The Cult Classics are a psychedelic rock band from Salt Lake City, Utah.'},
+            ],
             link: [
                 {
                     rel: 'icon',
                     type: 'image/svg+xml',
-                    href: '/the-cult-classics/favicon.svg',
+                    href: '/favicon.svg',
                 },
             ],
         },
@@ -27,5 +30,5 @@ export default defineNuxtConfig({
             tailwindcss: {},
             autoprefixer: {},
         },
-    },
+    }
 });
